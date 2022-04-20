@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+  margin:0 auto;
+  padding:0;
+  background-color: rgb(224, 141, 16);
+  text-decoration: none;
+}
+
+.header{ 
+  position: relative;
+  height:63.44px;
+  width:100%;
+}
+.logo{
+  background-color: rgb(110, 149, 184);
+  color: white;
+}
+.logo-text{
+padding-top:5px;
+line-height: 5px;
+ width: 30px;
+}
+
+.box{
+  width:50px;
+  boader:50px;
+  height:50px;
+
+}
